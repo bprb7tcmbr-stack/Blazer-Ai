@@ -3,3 +3,5 @@ streamlit
 requests
 pandas
 numpy
+google-cloud-firestore
+firebase-admin # NEW: For Firebase Auth and Admin features
